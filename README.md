@@ -7,6 +7,6 @@ With Nessus Professional, you’ll get industry-leading vulnerability coverage a
 
 Purchase your license today from our eCommerce store via this exclusive offer and save 30%!
 
-Apply the code Nessus30 in the cart. Offer ends January 1, 2021.
+Apply the code <strong>Nessus30</strong> in the cart. Offer ends January 1, 2021.
 
 https://store.tenable.com/1479/purl-NessusAdvSupOneYear?x-promotion=hub
