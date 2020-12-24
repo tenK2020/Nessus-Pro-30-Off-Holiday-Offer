@@ -1,4 +1,4 @@
-# Nessus-Pro-30-Off-Holiday-Offer
+# Nessus-Tenable-Holiday-Offer
 Nessus Pro 30% Off Holiday Offer
 
 Give your company the gift of fast, easy vulnerability assessments.
